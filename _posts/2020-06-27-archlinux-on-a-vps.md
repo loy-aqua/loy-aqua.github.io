@@ -3,7 +3,7 @@ title: "Arch Linux on a VPS"
 categories: misc
 ---
 
-### Convert your VPS to Archlinux
+Convert your VPS to Archlinux
 ---
 This script will convert a VPS, running another linux distro, to Arch Linux.
 
