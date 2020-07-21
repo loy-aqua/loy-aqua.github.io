@@ -1,6 +1,6 @@
 ---
 title: "Literate Emacs Config"
-categories: misc
+categories: emacs
 ---
 
 Literate programming is a **programming paradigm** introduced by  Donald Knuth, definition from Wikipedia :

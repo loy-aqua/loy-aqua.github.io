@@ -1,6 +1,6 @@
 ---
 title: "Arch Linux on a VPS"
-categories: misc
+categories: linux
 ---
 
 ### Convert your VPS to Archlinux

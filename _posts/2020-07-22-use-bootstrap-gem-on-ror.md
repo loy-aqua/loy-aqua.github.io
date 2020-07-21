@@ -1,6 +1,6 @@
 ---
 title: "Use Bootstrap Gem 4.5.0 on RoR"
-categories: misc
+categories: rails
 ---
 
 The operations carried out below are based on the Bootstrap’s readme file.

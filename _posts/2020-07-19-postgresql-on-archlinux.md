@@ -1,6 +1,6 @@
 ---
 title: "Remote Access PostgreSQL on Arch Linux"
-categories: misc
+categories: linux
 ---
 
 1. Install the **postgresql** package.
